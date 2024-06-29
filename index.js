@@ -28,7 +28,7 @@ app.listen(PORT, ()=>{
 });
 
 app.use('/',(req,res)=>{
-    res.send("<h1> Welcome to Restaurent ");
+    res.send("<h1> Pani chusko ra Puka ");
 })
 
 
